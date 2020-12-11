@@ -9,6 +9,9 @@ This project is the first step in the creation of an art store webiste.
 This project updates your existing project from Chapter 2 to add some visual stylis- tic improvements with CSS.
 # Project-5-Book-Rep-Customer-Relations-Management
 This project updates the CRM HTML page you started in Project 2.2 to add some  visual style and make it look professional.
+# Project-6-Visual-style-Art-Store
+This project builds on the art store example from the previous chapter (Project 2.3),  but purposefully leaves you having to dig a little deeper into CSS
+
 
 
 
