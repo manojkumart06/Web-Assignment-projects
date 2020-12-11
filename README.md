@@ -5,5 +5,7 @@ This project is the first step in the creation of a travel photo sharing website
 This project is the first step in the creation of a CRM website. In this project you  will be augmenting the provided page to use semantic HTML5 tags.
 # project-3-Art-Store
 This project is the first step in the creation of an art store webiste.
+# project-4-Share-your-Travel-Photos-Time-for-some-style
+This project updates your existing project from Chapter 2 to add some visual stylis- tic improvements with CSS.
 
 
